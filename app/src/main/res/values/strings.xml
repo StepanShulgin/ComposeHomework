@@ -12,5 +12,8 @@
     <string name="message_hint">Введите сообщение</string>
     <string name="submit">Отправить</string>
     <string name="retry">Повторить</string>
+    <string name="clear">Очистить</string>
     <string name="loading">Загрузка...</string>
+    <string name="button_clicked">Кнопка нажата!</string>
+    <string name="result_id">Номер отправки: %1$d</string>
 </resources>
